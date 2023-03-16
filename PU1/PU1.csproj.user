@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmCameraSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screen\Parent\UcScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screen\UcHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screen\UcRecipe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screen\UcReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Screen\UcSetup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

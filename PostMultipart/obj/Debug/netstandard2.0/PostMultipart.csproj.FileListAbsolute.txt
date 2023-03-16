@@ -1,0 +1,19 @@
+C:\Repos\HttpHelper\PostMultipart\bin\Debug\netstandard2.0\PostMultipart.deps.json
+C:\Repos\HttpHelper\PostMultipart\bin\Debug\netstandard2.0\PostMultipart.dll
+C:\Repos\HttpHelper\PostMultipart\bin\Debug\netstandard2.0\PostMultipart.pdb
+C:\Repos\HttpHelper\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.csprojAssemblyReference.cache
+C:\Repos\HttpHelper\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.AssemblyInfoInputs.cache
+C:\Repos\HttpHelper\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.AssemblyInfo.cs
+C:\Repos\HttpHelper\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.csproj.CoreCompileInputs.cache
+C:\Repos\HttpHelper\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.dll
+C:\Repos\HttpHelper\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.pdb
+D:\VS workspace\PU1\PostMultipart\bin\Debug\netstandard2.0\PostMultipart.deps.json
+D:\VS workspace\PU1\PostMultipart\bin\Debug\netstandard2.0\PostMultipart.dll
+D:\VS workspace\PU1\PostMultipart\bin\Debug\netstandard2.0\PostMultipart.pdb
+D:\VS workspace\PU1\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.csproj.AssemblyReference.cache
+D:\VS workspace\PU1\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS workspace\PU1\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.AssemblyInfoInputs.cache
+D:\VS workspace\PU1\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.AssemblyInfo.cs
+D:\VS workspace\PU1\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.csproj.CoreCompileInputs.cache
+D:\VS workspace\PU1\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.dll
+D:\VS workspace\PU1\PostMultipart\obj\Debug\netstandard2.0\PostMultipart.pdb
